@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @romanbatavi
-- 👀 I’m interested in javascript, python, machine learning
+- 👀 I’m interested in javascript
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Instagram @bataviroman
-- 🤔 I’m looking for help with Improving my react-todolist documentation and features.
 - ⚡ Fun fact: If I am not coding then I am playing DotA2 or PUBG
 
 <!---
